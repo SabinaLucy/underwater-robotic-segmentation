@@ -1,0 +1,6 @@
+name: underwater-seg
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+prefix: C:\Users\sabin\anaconda3\envs\underwater-seg

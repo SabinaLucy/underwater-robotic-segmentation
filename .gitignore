@@ -1,0 +1,7 @@
+data/
+checkpoints/
+third_party/
+__pycache__/
+*.pth
+*.h5
+*.zip
