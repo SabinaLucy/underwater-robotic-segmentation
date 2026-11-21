@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "manifest_sha256": "30713993fb9fbd669bee764758ccd3c2fd83cf9af953295c0940e5ccdca97b69",
+  "checkpoint_path": "/content/drive/MyDrive/Underwater_Research/checkpoints/notebook_02_public_research_v1/final/best.pth",
+  "checkpoint_sha256": "2244ff0337185bfba8d2621e7541bd373bfc7af0f0331af32155b464e51d466f",
+  "checkpoint_best_epoch": 112,
+  "enhancement_config_sha256": "80d523eaa0349049911349b092fa570446712433ad789c2a208642836e96305e",
+  "enhancement_manifest_sha256": "11916b1c02c435dfed16b93e871c07c6da54d679cbab323aea847bfa122c875c",
+  "test_images": 110,
+  "methods": [
+    "raw",
+    "clahe",
+    "funie_gan"
+  ],
+  "normalization": "RGB uint8 / 127.5 - 1",
+  "bootstrap_replicates": 2000,
+  "bootstrap_unit": "paired image stem",
+  "ci_method": "percentile 2.5 / 97.5",
+  "device": "cuda",
+  "test_set_policy": "evaluation only; no tuning",
+  "model_policy": "frozen RAW-trained U-Net"
+}

@@ -1,0 +1,13 @@
+condition,case_type,stem,delta_image_miou
+CLAHE,largest regression,f_r_1303_,-0.4464947184649617
+CLAHE,largest regression,d_r_300_,-0.4352119611661231
+CLAHE,largest regression,f_r_209_,-0.4032010641368437
+CLAHE,largest improvement,f_r_263_,0.1620297165194296
+CLAHE,largest improvement,w_r_14_,0.1591054057908413
+CLAHE,largest improvement,d_r_144_,0.155877794253308
+FUnIE-GAN,largest regression,d_r_58_,-0.2971624421210513
+FUnIE-GAN,largest regression,d_r_300_,-0.2964096560376887
+FUnIE-GAN,largest regression,f_r_209_,-0.2409143740511864
+FUnIE-GAN,largest improvement,f_r_106_,0.3589967078528666
+FUnIE-GAN,largest improvement,f_r_1920_,0.2637180489115764
+FUnIE-GAN,largest improvement,f_r_214_,0.2121254359540847

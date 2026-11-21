@@ -1,0 +1,9 @@
+class_id,code,class_name,rgb
+0,BW,Water/background,"(0, 0, 0)"
+1,HD,Diver,"(0, 0, 255)"
+2,PF,Plant,"(0, 255, 0)"
+3,WR,Wreck,"(0, 255, 255)"
+4,RO,Robot,"(255, 0, 0)"
+5,RI,Reef,"(255, 0, 255)"
+6,FV,Fish,"(255, 255, 0)"
+7,SR,Sea floor,"(255, 255, 255)"

@@ -1,0 +1,5 @@
+,luminance_mean,luminance_mean,luminance_mean,luminance_std,luminance_std,luminance_std,saturation_mean,saturation_mean,saturation_mean,gradient_mean,gradient_mean,gradient_mean,clipped_fraction,clipped_fraction,clipped_fraction
+,mean,std,median,mean,std,median,mean,std,median,mean,std,median,mean,std,median
+RAW,108.676,27.731,107.793,43.684,12.894,44.851,145.407,51.434,139.6,61.175,33.046,58.21,0.038,0.067,0.009
+CLAHE,119.571,20.748,120.65,52.142,12.538,54.38,132.652,44.804,130.159,110.954,50.279,108.195,0.04,0.048,0.024
+FUnIE-GAN,106.47,28.327,105.055,44.596,12.487,45.477,125.361,42.959,121.095,68.688,33.164,66.196,0.005,0.025,0.0

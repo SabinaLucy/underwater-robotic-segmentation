@@ -1,0 +1,19 @@
+{
+  "manifest_sha256": "30713993fb9fbd669bee764758ccd3c2fd83cf9af953295c0940e5ccdca97b69",
+  "seed": 42,
+  "image_size": [
+    256,
+    256
+  ],
+  "clahe": {
+    "clip_limit": 2.0,
+    "tile_grid": 8
+  },
+  "funie": {
+    "repository": "https://github.com/xahidbuffon/FUnIE-GAN.git",
+    "commit": "8f934c834c94e007b00866186b9ee624dc2b7b69",
+    "checkpoint_sha256": "e4fcb50e03868f1683c244b1c125def30df335ec43d9bb001b8700c03b8f2bd6",
+    "normalization": "RGB [0,255] -> [-1,1] -> [0,255]"
+  },
+  "selection_policy": "No test-set tuning; no U-Net segmentation feedback"
+}
